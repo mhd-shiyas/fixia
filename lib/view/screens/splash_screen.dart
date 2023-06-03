@@ -1,3 +1,4 @@
+import 'package:fixia_app/widgets/custom_textfield.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatelessWidget {
@@ -6,9 +7,7 @@ class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
-        child: Text('Fixia'),
-      ),
+      body: Center(child: CustomTextField(title: 'Fixia')),
     );
   }
 }
