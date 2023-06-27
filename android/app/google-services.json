@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935054730053",
+    "project_id": "fixia-a28fb",
+    "storage_bucket": "fixia-a28fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935054730053:android:d6ec61281aa3a44987542c",
+        "android_client_info": {
+          "package_name": "com.astratek.fixiapartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935054730053-83348o8jhjhu5dvos2bgfocq035j78qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4T-hTLxnGfYyLxAro5NzJ3CeK4tDuV4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935054730053-83348o8jhjhu5dvos2bgfocq035j78qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
